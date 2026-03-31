@@ -8,4 +8,5 @@ Messages are published to a queue and processed by a consumer service responsibl
  - .NET
  - RabbitMQ
  - Message Queues
-1. Order
+
+![Swagger](images/order-api.png)
