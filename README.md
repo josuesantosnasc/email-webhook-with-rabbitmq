@@ -9,4 +9,4 @@ Messages are published to a queue and processed by a consumer service responsibl
  - RabbitMQ
  - Message Queues
 
-![Swagger](images/order-api.png)
+![Swagger](Images/order-api.png)
